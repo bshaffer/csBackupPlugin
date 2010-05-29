@@ -29,7 +29,7 @@ all:
       command:            mysqldump
     
     scp:
-      target:             false
+      target:             false  # false for local machine
 
       target_dir:         ~/
       
