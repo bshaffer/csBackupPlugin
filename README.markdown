@@ -47,6 +47,7 @@ Some common options here are
 To Do
 -----
 
-  * add support for other database backup scripts
+  * add support for PostgreSQL backup
   * add support for file backup compression
   * clean up configuration structure
+  * Amazon S3 support
