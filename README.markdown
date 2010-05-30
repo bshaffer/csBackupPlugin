@@ -7,7 +7,7 @@ Currently Supported Databases:
 
   * Mysql (using [AutoMysqlBackup](http://www.debianhelp.co.uk/mysqlscript.htm))
   
-Currently Supported File Sync Applications:
+Currently Supported File Management Protocols:
 
   * rsync
   * ftp
